@@ -2,6 +2,10 @@
 
 **High-Five** is a playful, real-time web app that lets users send and track high-fives from around the world. Built with React and Firebase, it features a global high-five counter, a feed of recent high-fives, and a responsive, modern UI.
 
+## Demo
+
+[Live Demo](https://high-five-f3fac.web.app/)
+
 ## Features
 
 - 🌍 **Global High-Five Counter:** See the total number of high-fives sent by users everywhere, updated in real time.
